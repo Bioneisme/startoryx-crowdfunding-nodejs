@@ -29,11 +29,11 @@ Live Demo: http://startoryx.live/
 ### Installing
 ```bash
 # Get the latest snapshot
-git clone https://github.com/zaurbbb/startoryx-crowdfunding-nodejs.git
+git clone https://github.com/Bioneisme/startoryx-crowdfunding-nodejs.git
 ```
 ``` bash
 # Change directory
-cd myproject
+cd startoryx-crowdfunding-nodejs
 ```
 ``` bash
 # Install NPM dependencies

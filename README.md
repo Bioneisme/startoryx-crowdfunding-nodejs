@@ -24,7 +24,6 @@ Live Demo: http://startoryx.live/
 * NodeJS, NPM (https://www.npmjs.com/get-npm)
 * MongoDB server, local or remote (https://www.mongodb.com/)
 * Cloudinary (https://cloudinary.com/)
-* Heroku - optional
 
 ### Installing
 ```bash
